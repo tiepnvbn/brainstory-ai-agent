@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+.env
+*.pyc
+chroma_db/
 __pycache__/
 *.py[codz]
 *$py.class
@@ -205,8 +208,3 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-.env
-*.pyc
-__pycache__/
-*.pyc
-chroma_db/
